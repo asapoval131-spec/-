@@ -1,0 +1,7 @@
+D:\931\Шаповал\Шаповал\bin\Debug\Шаповал.exe.config
+D:\931\Шаповал\Шаповал\bin\Debug\Шаповал.exe
+D:\931\Шаповал\Шаповал\bin\Debug\Шаповал.pdb
+D:\931\Шаповал\Шаповал\obj\Debug\Шаповал.csproj.AssemblyReference.cache
+D:\931\Шаповал\Шаповал\obj\Debug\Шаповал.csproj.CoreCompileInputs.cache
+D:\931\Шаповал\Шаповал\obj\Debug\Шаповал.exe
+D:\931\Шаповал\Шаповал\obj\Debug\Шаповал.pdb
